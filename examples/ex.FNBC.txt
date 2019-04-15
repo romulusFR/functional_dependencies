@@ -1,0 +1,4 @@
+# comments start with a #
+attr_A attr_B -> attr_C attr_A
+attr_C -> attr_B
+

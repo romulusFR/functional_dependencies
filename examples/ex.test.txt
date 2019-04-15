@@ -1,0 +1,7 @@
+# comments start with a #
+A -> B
+A -> C
+D -> E
+C -> D
+B -> C
+B C -> A
